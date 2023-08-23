@@ -1,4 +1,4 @@
-name: Generate feed and deploy it to GitHub Pages
+name: Handle JSON and deploy it to GitHub Pages
 
 on:
   push:
