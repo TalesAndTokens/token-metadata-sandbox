@@ -17,16 +17,16 @@
     },
     {
       "trait_type": "冒険者レベル",
-      "value": "2"
+      "value": "3"
     },
     {
       "trait_type": "所持金",
-      "value": 2775,
+      "value": 2763,
       "display_type": "boost_number"
     },
     {
       "trait_type": "経験点",
-      "value": 2532,
+      "value": 1352,
       "display_type": "boost_number"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "trait_type": "ソーサラー",
-      "value": ""
+      "value": "1"
     },
     {
       "trait_type": "シャーマン",
