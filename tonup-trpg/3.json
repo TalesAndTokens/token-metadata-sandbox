@@ -1,0 +1,160 @@
+{
+  "name": "TONUP TRPG #3",
+  "description": "",
+  "image": "https://cache.dev.ttt.games/worlds/7/nft_images/3.png",
+  "attributes": [
+    {
+      "trait_type": "種族",
+      "value": "ハーフ・エルフ"
+    },
+    {
+      "trait_type": "生まれ",
+      "value": "旅人"
+    },
+    {
+      "trait_type": "性別",
+      "value": "女性"
+    },
+    {
+      "trait_type": "冒険者レベル",
+      "value": "2"
+    },
+    {
+      "trait_type": "所持金",
+      "value": 1500,
+      "display_type": "boost_number"
+    },
+    {
+      "trait_type": "経験点",
+      "value": 4532,
+      "display_type": "boost_number"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "器用度",
+      "value": 18,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "敏捷度",
+      "value": 17,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "知力",
+      "value": 15,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "筋力",
+      "value": 10,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "生命力",
+      "value": 15,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "精神力",
+      "value": 15,
+      "max_value": 30
+    },
+    {
+      "trait_type": "ソーサラー",
+      "value": ""
+    },
+    {
+      "trait_type": "シャーマン",
+      "value": "1"
+    },
+    {
+      "trait_type": "ファイター",
+      "value": ""
+    },
+    {
+      "trait_type": "シーフ",
+      "value": ""
+    },
+    {
+      "trait_type": "プリースト",
+      "value": ""
+    },
+    {
+      "trait_type": "レンジャー",
+      "value": "1"
+    },
+    {
+      "trait_type": "セージ",
+      "value": ""
+    },
+    {
+      "trait_type": "バード",
+      "value": "2"
+    },
+    {
+      "trait_type": "クラフトマン",
+      "value": ""
+    },
+    {
+      "trait_type": "ブリーダー",
+      "value": "1"
+    },
+    {
+      "trait_type": "タロケミスト",
+      "value": ""
+    },
+    {
+      "trait_type": "武器",
+      "value": "ライトメイス (10)"
+    },
+    {
+      "trait_type": "鎧",
+      "value": "ソフト・レザー (7)"
+    },
+    {
+      "trait_type": "道具",
+      "value": "リュート"
+    },
+    {
+      "trait_type": "攻撃力",
+      "value": 4,
+      "max_value": 20
+    },
+    {
+      "trait_type": "打撃力",
+      "value": 10,
+      "max_value": 30
+    },
+    {
+      "trait_type": "クリティカル値",
+      "value": 10,
+      "max_value": 12
+    },
+    {
+      "trait_type": "追加ダメージ",
+      "value": 1,
+      "max_value": 20
+    },
+    {
+      "trait_type": "回避力",
+      "value": 2,
+      "max_value": 20
+    },
+    {
+      "trait_type": "防御力",
+      "value": 7,
+      "max_value": 30
+    },
+    {
+      "trait_type": "ダメージ減少",
+      "value": 2,
+      "max_value": 20
+    }
+  ]
+}
