@@ -31,82 +31,82 @@
     },
     {
       "display_type": "number",
-      "trait_type": "器用度",
+      "trait_type": "器用",
       "value": 10,
       "max_value": 30
     },
     {
       "display_type": "number",
-      "trait_type": "敏捷度",
+      "trait_type": "敏捷",
       "value": 11,
       "max_value": 30
     },
     {
       "display_type": "number",
-      "trait_type": "知力",
+      "trait_type": "知性",
       "value": 15,
       "max_value": 30
     },
     {
       "display_type": "number",
-      "trait_type": "筋力",
+      "trait_type": "身体",
       "value": 19,
       "max_value": 30
     },
     {
       "display_type": "number",
-      "trait_type": "生命力",
+      "trait_type": "生命",
       "value": 19,
       "max_value": 30
     },
     {
       "display_type": "number",
-      "trait_type": "精神力",
+      "trait_type": "精神",
       "value": 16,
       "max_value": 30
     },
     {
-      "trait_type": "ソーサラー",
+      "trait_type": "魔法使い",
       "value": ""
     },
     {
-      "trait_type": "シャーマン",
+      "trait_type": "精霊使い",
       "value": ""
     },
     {
-      "trait_type": "ファイター",
+      "trait_type": "戦士",
       "value": "2"
     },
     {
-      "trait_type": "シーフ",
+      "trait_type": "盗賊",
       "value": ""
     },
     {
-      "trait_type": "プリースト",
+      "trait_type": "司祭",
       "value": "2"
     },
     {
-      "trait_type": "レンジャー",
+      "trait_type": "猟師",
       "value": "3"
     },
     {
-      "trait_type": "セージ",
+      "trait_type": "学者",
       "value": ""
     },
     {
-      "trait_type": "バード",
+      "trait_type": "吟遊詩人",
       "value": ""
     },
     {
-      "trait_type": "クラフトマン",
+      "trait_type": "匠",
       "value": "5"
     },
     {
-      "trait_type": "ブリーダー",
+      "trait_type": "魔獣使い",
       "value": "1"
     },
     {
-      "trait_type": "タロケミスト",
+      "trait_type": "錬譚術師",
       "value": ""
     },
     {
@@ -132,12 +132,12 @@
       "max_value": 30
     },
     {
-      "trait_type": "クリティカル値",
+      "trait_type": "クリティカル",
       "value": 10,
       "max_value": 12
     },
     {
-      "trait_type": "追加ダメージ",
+      "trait_type": "トランプル",
       "value": 6,
       "max_value": 20
     },
@@ -152,7 +152,7 @@
       "max_value": 30
     },
     {
-      "trait_type": "ダメージ減少",
+      "trait_type": "ダメージ軽減",
       "value": 3,
       "max_value": 20
     }
